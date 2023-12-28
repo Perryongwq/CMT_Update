@@ -1,0 +1,30 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+
+
+fastapi
+uvicorn
+
+SQLAlchemy
+requests   
+python-dotenv
+
+python-multipart        # Form Data Usage
+pydantic[email]         # Email Checking
+passlib[bcrypt]         # Hashing
+python-jose             # Authentication
+
+pytest                  # For Testing
+
+JinJa2                  # Templating
+aiofiles                
+
+opencv-python           # Processing Images
+tensorflow              # AI Model
+
+websockets
+Pillow
+
